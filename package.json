@@ -1,0 +1,16 @@
+{
+  "name": "clima-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo Venditti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^11.0.0",
+    "yarn": "^1.10.0"
+  }
+}
