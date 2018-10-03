@@ -7,7 +7,7 @@ const getClima = async(lat, lng) => {
     location: response.data.name,
     temp : response.data.main.temp,
     hum : response.data.main.humidity,
-    prss : response.data.main.pressure
+    pres : response.data.main.pressure
   }
 }
 
